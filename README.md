@@ -1,37 +1,40 @@
-# Hi, I'm Nishank 👋
-
-Currently focused on AI Engineering, exploring LLMs, AI agents, and building AI-powered applications.
-
-### AI & Machine Learning
-- Python
-- Machine Learning
-- Deep Learning
-- Model Training
-- Scikit-learn
-- Pandas
-
-### AI Engineering
-- LLMs
-- Prompt Engineering
-- LangChain
-- LangGraph
-- AI Agents
-- FastAPI
-- RAG
-
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-- Node.js
-
-### Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-
-### Connect
-- [X](https://x.com/hey_nishank)
-- [LinkedIn](https://linkedin.com/in/nishankgupta)
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   NISHANK GUPTA                                               │
+│   ────────────────────────────────────────────────────────   │
+│   Currently focused on AI Engineering.                       │
+│                                                              │
+│   Exploring LLMs, AI agents, and building                    │
+│   AI-powered applications.                                   │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   01  /  AI & MACHINE LEARNING                                │
+│                                                              │
+│   Python · Machine Learning · Deep Learning · Model Training │
+│   Scikit-learn · Pandas                                       │
+│                                                              │
+│   02  /  AI ENGINEERING                                       │
+│                                                              │
+│   LLMs · Prompt Engineering · LangChain · LangGraph           │
+│   AI Agents · RAG · FastAPI                                   │
+│                                                              │
+│   03  /  WEB DEVELOPMENT                                      │
+│                                                              │
+│   HTML5 · CSS3 · JavaScript · TypeScript · React              │
+│   Next.js · Tailwind CSS · Node.js · Vite · shadcn/ui · PHP   │
+│                                                              │
+│   04  /  DATABASES & TOOLS                                    │
+│                                                              │
+│   MongoDB · MySQL · PostgreSQL · Supabase                    │
+│   Git · GitHub · VS Code · Bash · Jupyter Notebook           │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   FIND ME                                                     │
+│                                                              │
+│   <a href="https://github.com/Nishank018">GitHub</a>  ·  <a href="https://linkedin.com/in/nishankgupta">LinkedIn</a>  ·  <a href="https://x.com/hey_nishank">X</a>                       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
