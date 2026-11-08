@@ -1,3 +1,6 @@
+<img width="1500" height="375" alt="banner" src="https://github.com/user-attachments/assets/620db30a-5886-442d-8f29-ffb6ed917405" />
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1200&color=808080&center=true&vCenter=true&width=520&lines=Nishank+Gupta;AI+Engineer+%2F+Builder" alt="Nishank Gupta" />
 </h1>
